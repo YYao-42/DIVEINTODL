@@ -1,3 +1,3 @@
 # DIVEINTODL
 
-The (modified) official code of the book *[Dive Into Deep Learning](https://d2l.ai/index.html)*.
+The modified official codes (in Pytorch) of the book *[Dive Into Deep Learning](https://d2l.ai/index.html)*.
